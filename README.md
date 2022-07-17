@@ -1,7 +1,7 @@
 # Kyphosis-Disease-Classification
 
 
-Ready-made project
+ML Bootcamp Project
 
 CLASSIFICATION OF KYPHOSIS DISEASE
 PROBLEM STATEMENT
@@ -11,6 +11,10 @@ INPUTS:
 Age: in months
 Number: the number of vertebrae involved
 Start: the number of the first (topmost) vertebra operated on.
+
+<img width="389" alt="Screenshot 2022-07-17 at 02 48 43" src="https://user-images.githubusercontent.com/100385953/179379470-465157ad-b752-45d2-a2fe-8e082c8d60d8.png">
+
+
 OUTPUTS:
 
 Kyphosis: a factor with levels absent present indicating if a kyphosis (a type of deformation) was present after the operation.
